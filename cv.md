@@ -67,12 +67,12 @@ function greet(name, owner) {
 - **C1**
 - **C2**
 
-[1]: (https://app.rs.school/cv/28c831cd-3464-4a52-a20f-dc32301317b1)
-[2]: (https://github.com/GhostWri2er)
-[3]: (https://www.linkedin.com/in/ivan-mironovich-99aab3223/)
-[4]: (http://www.xn--f1anpb.xn--p1ai/)
-[5]: (https://practicum.yandex.ru/web/)
-[6]: (https://ru.hexlet.io/)
-[7]: (https://htmlacademy.ru/study)
-[8]: (https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
-[9]: (https://www.freecodecamp.org/)
+[1]:(https://app.rs.school/cv/28c831cd-3464-4a52-a20f-dc32301317b1)
+[2]:(https://github.com/GhostWri2er)
+[3]:(https://www.linkedin.com/in/ivan-mironovich-99aab3223/)
+[4]:(http://www.xn--f1anpb.xn--p1ai/)
+[5]:(https://practicum.yandex.ru/web/)
+[6]:(https://ru.hexlet.io/)
+[7]:(https://htmlacademy.ru/study)
+[8]:(https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
+[9]:(https://www.freecodecamp.org/)
