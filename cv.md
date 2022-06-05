@@ -14,7 +14,7 @@
 - **Phone**: +7 992 021 94 47
 - **Email**: ivanmironovich@vk.com
 - **GitHub**: [GhostWri2er][https://github.com/GhostWri2er]
-- **LinkedIn**: [Ivan Mironovich][3]
+- **LinkedIn**: [Ivan Mironovich][https://www.linkedin.com/in/ivan-mironovich-99aab3223/]
 - **Discord**: GhostWriter#9536
 
 ---
@@ -47,13 +47,13 @@ function greet(name, owner) {
 
 ## Education
 
-- Technical school: [NTZHT][4]
+- Technical school: [NTZHT][http://www.xn--f1anpb.xn--p1ai/]
 - Courses:
-  - [Yandex.Practicum][5]
-  - [Hexlet][6]
-  - [HtmlAcademy][7]
-  - [CS50][8]
-  - [FreeCodeCamp][9]
+  - [Yandex.Practicum][https://practicum.yandex.ru/web/]
+  - [Hexlet][https://ru.hexlet.io/]
+  - [HtmlAcademy][https://htmlacademy.ru/study]
+  - [CS50][https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5]
+  - [FreeCodeCamp][https://www.freecodecamp.org/]
 
 ---
 
@@ -67,10 +67,4 @@ function greet(name, owner) {
 - **C1**
 - **C2**
 
-[3]:(https://www.linkedin.com/in/ivan-mironovich-99aab3223/)
-[4]:(http://www.xn--f1anpb.xn--p1ai/)
-[5]:(https://practicum.yandex.ru/web/)
-[6]:(https://ru.hexlet.io/)
-[7]:(https://htmlacademy.ru/study)
-[8]:(https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
-[9]:(https://www.freecodecamp.org/)
+
