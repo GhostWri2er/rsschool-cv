@@ -13,7 +13,7 @@
 - **Location**: Saint Petersburg, Russia
 - **Phone**: +7 992 021 94 47
 - **Email**: ivanmironovich@vk.com
-- **GitHub**: [GhostWri2er][2]
+- **GitHub**: [GhostWri2er](https://github.com/GhostWri2er)
 - **LinkedIn**: [Ivan Mironovich][3]
 - **Discord**: GhostWriter#9536
 
@@ -67,7 +67,6 @@ function greet(name, owner) {
 - **C1**
 - **C2**
 
-[2]:(https://github.com/GhostWri2er)
 [3]:(https://www.linkedin.com/in/ivan-mironovich-99aab3223/)
 [4]:(http://www.xn--f1anpb.xn--p1ai/)
 [5]:(https://practicum.yandex.ru/web/)
