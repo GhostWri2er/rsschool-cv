@@ -1,4 +1,4 @@
-[rsschool-cv](https://app.rs.school/cv/28c831cd-3464-4a52-a20f-dc32301317b1)
+[rsschool-cv][https://app.rs.school/cv/28c831cd-3464-4a52-a20f-dc32301317b1]
 
 ---
 
@@ -13,7 +13,7 @@
 - **Location**: Saint Petersburg, Russia
 - **Phone**: +7 992 021 94 47
 - **Email**: ivanmironovich@vk.com
-- **GitHub**: [GhostWri2er](https://github.com/GhostWri2er)
+- **GitHub**: [GhostWri2er][https://github.com/GhostWri2er]
 - **LinkedIn**: [Ivan Mironovich][3]
 - **Discord**: GhostWriter#9536
 
