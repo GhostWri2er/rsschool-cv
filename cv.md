@@ -13,8 +13,8 @@
 - **Location**: Saint Petersburg, Russia
 - **Phone**: +7 992 021 94 47
 - **Email**: ivanmironovich@vk.com
-- **GitHub**: [GhostWri2er][https://github.com/GhostWri2er]
-- **LinkedIn**: [Ivan Mironovich][https://www.linkedin.com/in/ivan-mironovich-99aab3223/]
+- **GitHub**: [GhostWri2er](https://github.com/GhostWri2er)
+- **LinkedIn**: [Ivan Mironovich](https://www.linkedin.com/in/ivan-mironovich-99aab3223/)
 - **Discord**: GhostWriter#9536
 
 ---
@@ -49,11 +49,11 @@ function greet(name, owner) {
 
 - Technical school: [NTZHT](http://www.xn--f1anpb.xn--p1ai/)
 - Courses:
-  - [Yandex.Practicum][https://practicum.yandex.ru/web/]
-  - [Hexlet][https://ru.hexlet.io/]
-  - [HtmlAcademy][https://htmlacademy.ru/study]
-  - [CS50][https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5]
-  - [FreeCodeCamp][https://www.freecodecamp.org/]
+  - [Yandex.Practicum](https://practicum.yandex.ru/web/)
+  - [Hexlet](https://ru.hexlet.io/)
+  - [HtmlAcademy](https://htmlacademy.ru/study)
+  - [CS50](https://www.youtube.com/watch?v=Sy_wba7l1UU&list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5)
+  - [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ---
 
