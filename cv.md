@@ -47,7 +47,7 @@ function greet(name, owner) {
 
 ## Education
 
-- Technical school: [NTZHT][http://www.xn--f1anpb.xn--p1ai/]
+- Technical school: [NTZHT](http://www.xn--f1anpb.xn--p1ai/)
 - Courses:
   - [Yandex.Practicum][https://practicum.yandex.ru/web/]
   - [Hexlet][https://ru.hexlet.io/]
