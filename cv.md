@@ -1,4 +1,4 @@
-[rsschool-cv][https://app.rs.school/cv/28c831cd-3464-4a52-a20f-dc32301317b1]
+[rsschool-cv](https://app.rs.school/cv/28c831cd-3464-4a52-a20f-dc32301317b1)
 
 ---
 
