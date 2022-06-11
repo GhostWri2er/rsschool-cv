@@ -1,3 +1,7 @@
+.root {
+  margin: 0;
+}
+
 .page {
   margin: 0 auto;
   max-width: 595px;
@@ -24,6 +28,7 @@
   justify-content: center;
   align-items: center;
   margin: 0 auto;
+  padding: 32px 34px 50px 34px;
 }
 
 .header__photo {
@@ -31,27 +36,29 @@
   width: 70px;
   height: 74px;
   border-radius: 100px;
-  margin: 32px auto 18px auto;
+  margin: 0 auto 18px auto;
 }
 
 .header__info {
   max-width: 135px;
   text-align: center;
-  margin-bottom: 51px;
 }
 
 .header__title {
   font-size: 18px;
   font-weight: 600;
   Line-height: 21.48px;
+  margin: 0;
 }
 
 .header__subtitle {
   font-size: 12px;
+  margin: 10px 0 0 0;
 }
 
 .contacts {
   margin: 0 auto;
+  margin-bottom: 50px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -72,4 +79,55 @@
 
 .contacts__link:last-of-type {
   margin-bottom: 0;
+}
+
+.skills {
+  margin-bottom: 90px;
+
+}
+
+.skills__container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  mix-blend-mode: overlay;
+  margin: 0 auto;
+}
+
+.skills__skill {
+  color: #fff;
+  border: 1.5px solid #FFFFFF;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.skills__text {
+  margin: 4px 12px;
+}
+
+.qr-code__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.qr-code__image {
+  width: 80px;
+  height: 80px;
+  background: rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 7px;
+}
+
+.main-cv {
+  margin-left: 32px;
+}
+
+.main-cv__link {
+  text-decoration: none;
+  color: rgb(100, 245, 16);
 }
