@@ -1,0 +1,79 @@
+﻿{
+    "messages":  [
+                     {
+                         "type":  "info",
+                         "lastLine":  23,
+                         "lastColumn":  36,
+                         "firstColumn":  11,
+                         "subType":  "warning",
+                         "message":  "Consider using the “h1” element as a top-level heading only (all “h1” elements are treated as top-level headings by many screen readers and other tools).",
+                         "extract":  "          \u003ch1 class=\"header__title\"\u003eIvan M",
+                         "hiliteStart":  10,
+                         "hiliteLength":  26
+                     },
+                     {
+                         "type":  "info",
+                         "lastLine":  27,
+                         "lastColumn":  32,
+                         "firstColumn":  7,
+                         "subType":  "warning",
+                         "message":  "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.",
+                         "extract":  "er\u003e\n      \u003csection class=\"contacts\"\u003e\n     ",
+                         "hiliteStart":  10,
+                         "hiliteLength":  26
+                     },
+                     {
+                         "type":  "info",
+                         "lastLine":  40,
+                         "lastColumn":  30,
+                         "firstColumn":  7,
+                         "subType":  "warning",
+                         "message":  "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.",
+                         "extract":  "on\u003e\n      \u003csection class=\"skills\"\u003e\n     ",
+                         "hiliteStart":  10,
+                         "hiliteLength":  24
+                     },
+                     {
+                         "type":  "info",
+                         "lastLine":  84,
+                         "lastColumn":  31,
+                         "firstColumn":  7,
+                         "subType":  "warning",
+                         "message":  "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.",
+                         "extract":  "on\u003e\n      \u003csection class=\"qr-code\"\u003e\n     ",
+                         "hiliteStart":  10,
+                         "hiliteLength":  25
+                     },
+                     {
+                         "type":  "error",
+                         "lastLine":  151,
+                         "lastColumn":  12,
+                         "firstColumn":  7,
+                         "message":  "End tag “div” seen, but there were open elements.",
+                         "extract":  "li\u003e\n      \u003c/div\u003e\n    \u003c",
+                         "hiliteStart":  10,
+                         "hiliteLength":  6
+                     },
+                     {
+                         "type":  "error",
+                         "lastLine":  129,
+                         "lastColumn":  12,
+                         "firstColumn":  9,
+                         "message":  "Unclosed element “ul”.",
+                         "extract":  "\u003e\n        \u003cul\u003e\n     ",
+                         "hiliteStart":  10,
+                         "hiliteLength":  4
+                     },
+                     {
+                         "type":  "info",
+                         "lastLine":  15,
+                         "lastColumn":  22,
+                         "firstColumn":  3,
+                         "subType":  "warning",
+                         "message":  "Section lacks heading. Consider using “h2”-“h6” elements to add identifying headings to all sections, or else use a “div” element instead for any cases where no heading is needed.",
+                         "extract":  "\"page\"\u003e\n  \u003csection class=\"cv\"\u003e\n    \u003c",
+                         "hiliteStart":  10,
+                         "hiliteLength":  20
+                     }
+                 ]
+}

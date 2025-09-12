@@ -1,0 +1,74 @@
+﻿[
+    {
+        "type":  "info",
+        "lastLine":  4,
+        "lastColumn":  28,
+        "firstColumn":  5,
+        "message":  "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+        "extract":  "head\u003e\n    \u003cmeta charset=\"UTF-8\" /\u003e\n    \u003c",
+        "hiliteStart":  10,
+        "hiliteLength":  24
+    },
+    {
+        "type":  "info",
+        "lastLine":  5,
+        "lastColumn":  59,
+        "firstColumn":  5,
+        "message":  "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+        "extract":  "8\" /\u003e\n    \u003cmeta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" /\u003e\n    \u003c",
+        "hiliteStart":  10,
+        "hiliteLength":  55
+    },
+    {
+        "type":  "info",
+        "lastLine":  6,
+        "lastColumn":  76,
+        "firstColumn":  5,
+        "message":  "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+        "extract":  "e\" /\u003e\n    \u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /\u003e\n    \u003c",
+        "hiliteStart":  10,
+        "hiliteLength":  72
+    },
+    {
+        "type":  "info",
+        "lastLine":  7,
+        "lastColumn":  48,
+        "firstColumn":  5,
+        "message":  "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+        "extract":  "0\" /\u003e\n    \u003clink rel=\"stylesheet\" href=\"./style.css\" /\u003e\n    \u003c",
+        "hiliteStart":  10,
+        "hiliteLength":  44
+    },
+    {
+        "type":  "info",
+        "lastLine":  11,
+        "firstLine":  8,
+        "lastColumn":  6,
+        "firstColumn":  5,
+        "message":  "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+        "extract":  "s\" /\u003e\n    \u003clink\n      href=\"https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700\u0026display=swap\"\n      rel=\"stylesheet\"\n    /\u003e\n    \u003c",
+        "hiliteStart":  10,
+        "hiliteLength":  134
+    },
+    {
+        "type":  "info",
+        "lastLine":  23,
+        "firstLine":  19,
+        "lastColumn":  14,
+        "firstColumn":  13,
+        "message":  "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+        "extract":  "          \u003cimg\n              class=\"header__photo\"\n              src=\"./bRZ-gmfeBVs.jpg\"\n              alt=\"Фото профиля\"\n            /\u003e\n     ",
+        "hiliteStart":  10,
+        "hiliteLength":  126
+    },
+    {
+        "type":  "info",
+        "lastLine":  75,
+        "lastColumn":  78,
+        "firstColumn":  15,
+        "message":  "Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.",
+        "extract":  "          \u003cimg class=\"qr-code__image\" src=\"./qr-code.png\" alt=\"qr code\" /\u003e\n     ",
+        "hiliteStart":  10,
+        "hiliteLength":  64
+    }
+]
